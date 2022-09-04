@@ -1,0 +1,16 @@
+D:\Projects\Console_PublishProgram\bin\Debug\net5.0\Console_PublishProgram.exe
+D:\Projects\Console_PublishProgram\bin\Debug\net5.0\Console_PublishProgram.deps.json
+D:\Projects\Console_PublishProgram\bin\Debug\net5.0\Console_PublishProgram.runtimeconfig.json
+D:\Projects\Console_PublishProgram\bin\Debug\net5.0\Console_PublishProgram.runtimeconfig.dev.json
+D:\Projects\Console_PublishProgram\bin\Debug\net5.0\Console_PublishProgram.dll
+D:\Projects\Console_PublishProgram\bin\Debug\net5.0\Console_PublishProgram.pdb
+D:\Projects\Console_PublishProgram\obj\Debug\net5.0\Console_PublishProgram.csproj.AssemblyReference.cache
+D:\Projects\Console_PublishProgram\obj\Debug\net5.0\Console_PublishProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Console_PublishProgram\obj\Debug\net5.0\Console_PublishProgram.AssemblyInfoInputs.cache
+D:\Projects\Console_PublishProgram\obj\Debug\net5.0\Console_PublishProgram.AssemblyInfo.cs
+D:\Projects\Console_PublishProgram\obj\Debug\net5.0\Console_PublishProgram.csproj.CoreCompileInputs.cache
+D:\Projects\Console_PublishProgram\obj\Debug\net5.0\Console_PublishProgram.dll
+D:\Projects\Console_PublishProgram\obj\Debug\net5.0\refint\Console_PublishProgram.dll
+D:\Projects\Console_PublishProgram\obj\Debug\net5.0\Console_PublishProgram.pdb
+D:\Projects\Console_PublishProgram\obj\Debug\net5.0\Console_PublishProgram.genruntimeconfig.cache
+D:\Projects\Console_PublishProgram\obj\Debug\net5.0\ref\Console_PublishProgram.dll
